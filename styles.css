@@ -21,7 +21,7 @@
 }
 
 header {
-  background-image: url("/images/mobile/image-header.jpg");
+  background-image: url("images/mobile/image-header.jpg");
   background-size: cover;
   background-position: center;
   max-height: 537px;
@@ -384,7 +384,7 @@ footer {
     font-size: 14px;
   }
   header {
-    background-image: url("/images/desktop/image-header.jpg");
+    background-image: url("images/desktop/image-header.jpg");
     height: 900px;
     max-height: 798px;
 
@@ -423,7 +423,7 @@ footer {
     display: none;
   }
   .transform-image-wrapper {
-    background-image: url(/images/desktop/image-transform.jpg);
+    background-image: url(images/desktop/image-transform.jpg);
 
     min-height: 310px;
     background-size: cover;
@@ -446,7 +446,7 @@ footer {
     height: 600px;
   }
   .stand-out-image-wrapper {
-    background-image: url(/images/desktop/image-stand-out.jpg);
+    background-image: url(images/desktop/image-stand-out.jpg);
     object-fit: cover;
     background-position: center center;
     min-height: 310px;
@@ -457,7 +457,7 @@ footer {
     display: none;
   }
   .graphic-design-image-wrapper {
-    background-image: url(/images/desktop/image-graphic-design.jpg);
+    background-image: url(images/desktop/image-graphic-design.jpg);
     object-fit: cover;
     background-position: center center;
     min-height: 310px;
@@ -468,7 +468,7 @@ footer {
     display: none;
   }
   .photography-image-wrapper {
-    background-image: url(/images/desktop/image-photography.jpg);
+    background-image: url(images/desktop/image-photography.jpg);
     object-fit: cover;
     background-position: center center;
 
