@@ -541,6 +541,9 @@ footer {
   .gallery {
     display: flex;
   }
+   .gallery img {
+    width: 100%;
+  }
   .social-icons {
     display: flex;
     justify-content: center;
